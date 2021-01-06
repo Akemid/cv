@@ -1,0 +1,32 @@
+/*********************TAG SELECTORS***************/
+
+img {
+  height: 10%;
+  width: 10%;
+  background-color: red;
+}
+
+body {
+  background-color: #f5f4f4;
+  color : #00303f;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 4%;
+  border-width: thick;
+  color: #0c7b93;
+}
+h1{
+  color:#142850;
+  font-family: sans-serif;
+}
+h2{
+  color:#142850;
+  font-family: sans-serif;
+}
+/*********************CLASS SELECTORS***************/
+.circular{
+  border-radius: 100%;
+}
+/*********************ID SELECTORS***************/
